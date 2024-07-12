@@ -822,23 +822,23 @@ background-color:#ff004f;
 {
     .container
     {
-        margin-top: 8rem;
+        margin-top: 15rem;
         padding-top: 6rem;
     }
     .container2
     {
-        margin-top: 5rem;
+        margin-top: 10rem;
         padding-top: 6rem;
     }
     .container3
     {
-        margin-top: 16rem;
+        margin-top: 23rem;
         padding-top: 20rem;
     }
 
      .container4
     {
-        margin-top: 14rem;
+        margin-top: 18rem;
         padding-top: 2rem;
     }
 }
@@ -846,13 +846,13 @@ background-color:#ff004f;
 {
     .container3
     {
-        margin-top: 26rem;
+        margin-top: 30rem;
         padding-top: 20rem;
     }
 
      .container2
     {
-        margin-top: 10rem;
+        margin-top: 20rem;
         padding-top: 6rem;
     }
 }
