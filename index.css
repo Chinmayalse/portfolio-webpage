@@ -818,3 +818,27 @@ background-color:#ff004f;
     width: 28rem;
 }
 }
+@media only screen and (max-width: 370px)
+{
+    .container
+    {
+        margin-top: 8rem;
+        padding-top: 6rem;
+    }
+    .container2
+    {
+        margin-top: 5rem;
+        padding-top: 6rem;
+    }
+    .container3
+    {
+        margin-top: 16rem;
+        padding-top: 20rem;
+    }
+
+     .container4
+    {
+        margin-top: 5rem;
+        padding-top: 6rem;
+    }
+}
